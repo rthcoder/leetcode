@@ -22,5 +22,3 @@ var addTwoNumbers = function (l1, l2) {
 
     return result.toString().split('').reverse()
 };
-
-console.log((addTwoNumbers([9, 9, 9, 9, 9, 9, 9], [9, 9, 9, 9])));

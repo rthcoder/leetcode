@@ -9,5 +9,3 @@ var isPalindrome = function (x) {
 
     return parseInt(a) === x
 };
-
-console.log(isPalindrome(0));
