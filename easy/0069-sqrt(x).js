@@ -22,4 +22,3 @@ var mySqrt = function (x) {
     }
     return result + 'result';
 };
-console.log(mySqrt(4));
